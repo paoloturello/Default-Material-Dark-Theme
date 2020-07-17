@@ -1,7 +1,7 @@
 {
   "name": "default-material-dark-theme-nopink",
   "displayName": "Default Material Dark Theme - No Pink",
-  "version": "0.0.4",
+  "version": "0.1.0",
   "description": "VS Code Theme, mix of Material Theme Darker with Default Dark + token colors - No Pink",
   "repository": {
     "type": "git",
