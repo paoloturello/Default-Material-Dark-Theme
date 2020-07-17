@@ -1,19 +1,19 @@
 {
-  "name": "default-material-dark-theme",
-  "displayName": "Default Material Dark Theme",
+  "name": "default-material-dark-theme-nopink",
+  "displayName": "Default Material Dark Theme - No Pink",
   "version": "0.0.4",
-  "description": "VS Code Theme, mix of Material Theme Darker with Default Dark + token colors",
+  "description": "VS Code Theme, mix of Material Theme Darker with Default Dark + token colors - No Pink",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yuchiu/Default-Material-Dark-Theme.git"
+    "url": "git+https://github.com/paoloturello/Default-Material-Dark-Theme.git"
   },
-  "author": "yuchiu",
+  "author": "pt",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yuchiu/Default-Material-Dark-Theme/issues"
+    "url": "https://github.com/paoloturello/Default-Material-Dark-Theme/issues"
   },
-  "homepage": "https://github.com/yuchiu/Default-Material-Dark-Theme#readme",
-  "publisher": "yuchiu2002",
+  "homepage": "https://github.com/paoloturello/Default-Material-Dark-Theme#readme",
+  "publisher": "71BF9DE1-C068-42B8-A3DB-BC28FE09E7F9",
   "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.0.0"
@@ -24,15 +24,15 @@
   "contributes": {
     "themes": [
       {
-        "label": "Default Material Dark Theme",
+        "label": "Default Material Dark Theme - No Pink",
         "uiTheme": "vs-dark",
         "path": "./themes/dark_plus.json"
       }
     ]
   },
   "__metadata": {
-    "id": "f88d485f-e8ba-490d-9e5f-48eea76f8564",
-    "publisherDisplayName": "yuchiu2002",
-    "publisherId": "3dbf6d83-98aa-4db6-9641-415de102b1bd"
+    "id": "8FE6BD96-EFD6-4D2C-B135-A11E4062EB85",
+    "publisherDisplayName": "pt_rlud",
+    "publisherId": "71BF9DE1-C068-42B8-A3DB-BC28FE09E7F9"
   }
 }
